@@ -36,3 +36,5 @@ permalink: /
 - [ ] [Excel](https://docs.zhangxiaocai.cn/Tools/Excel.html)
 
 - [ ] [Windows](https://docs.zhangxiaocai.cn/Tools/Win.html)
+
+- [X] [基础复习](https://xsq-blacktrees1994.github.io/java123)
