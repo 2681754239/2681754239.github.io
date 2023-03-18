@@ -1,6 +1,6 @@
 remote_theme: XSQ-BlackTrees1994/just-the-docs
 
-title: Note-Docs
+title: XSQ-BlackTrees1994
 
 
 
@@ -20,7 +20,7 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 # Aux links for the upper right navigation
 aux_links:
   "NoteBook on GitHub":
-    - "//github.com/small-rose/NoteBook"
+    - "//github.com/XSQ-BlackTrees1994/XSQ-BlackTrees1994.github.io"
     -
 
 plugins:

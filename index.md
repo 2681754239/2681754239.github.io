@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Home
+title: 主页
 nav_order: 1
-description: " Note Docs,NoteBook"
+description: " XSQ-BlackTrees1994,NoteBook"
 permalink: /
 ---
 
-   
-## Note-Docs
+## XSQ-BlackTrees1994
 {: .fs-9 }
 
  Here are just some things that may be used in the normal development process, which may help to query in real time, or quickly find the entrance of a website, so as to avoid repeated search with search engines 
@@ -32,7 +31,7 @@ permalink: /
 
 - [x] [Linux](https://docs.zhangxiaocai.cn/Linux/Linux.html)
 
-- [x] [工具链接](https://docs.zhangxiaocai.cn/Tools/Tools.html)
+- [x] [工具链接](https://docs.zhangxiaocai.cn/Tools/Tools.html)   
 
 - [ ] [Excel](https://docs.zhangxiaocai.cn/Tools/Excel.html)
 
