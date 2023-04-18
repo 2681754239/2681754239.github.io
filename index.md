@@ -38,3 +38,5 @@ permalink: /
 - [ ] [Windows](https://docs.zhangxiaocai.cn/Tools/Win.html)
 
 - [X] [基础复习](https://xsq-blacktrees1994.github.io/java123)
+
+- [X] [token生成](https://xsq-blacktrees1994.github.io/generatedToken)
